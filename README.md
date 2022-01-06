@@ -2,6 +2,7 @@ Teste
 
 Para popular o banco de dados tive que fazer uma pequena alteração nos dados onde havia '__' (dois underscores) para '_' (um underscores)
 
+
 O Django e python entender isso como função interna
 
 Para popular o banco de dados

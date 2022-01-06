@@ -2,7 +2,7 @@ from django.conf import settings
 from django.conf.urls.static import static
 from django.urls import path
 
-from produtos.views import ProdutosAjaxDatatableView, index
+from apps.produtos.views import ProdutosAjaxDatatableView, index
 
 urlpatterns = [
                   path('', index),

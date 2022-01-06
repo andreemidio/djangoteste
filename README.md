@@ -20,5 +20,5 @@ Para execução do servidor
 python manage.py runserver
 ````
 
-![imagem](./img/2022-01-05 23_36_03-Window.png)
+<img src="./img/2022-01-05 23_36_03-Window.png">
 

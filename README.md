@@ -1,6 +1,6 @@
 Teste
 
-Para popular o banco de dados tive que fazer uma pequena alteração nos dados onde havia '__' (dois underscores) para '_' (um underscores)
+Para popular o banco de dados tive que fazer uma pequena alteração nos dados onde havia '__' (dois underscores) para '_' (um underscore)
 
 
 Para popular o banco de dados

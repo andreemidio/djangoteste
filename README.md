@@ -10,7 +10,7 @@ python manage.py migrate
 python manage.py seed_db
 ````
 
-Porém para rodar consegui criar nada com Ajax feito por mim, usei uma  lib (https://pypi.org/project/django-ajax-datatable/) para mostrar a tabela na tela. 
+Para mostrar usei uma  lib (https://pypi.org/project/django-ajax-datatable/) para mostrar a tabela.
 
 Conheço bem mais e uso muito mais Django Rest Framework
 
